@@ -2,9 +2,7 @@
 
 # 사용한 프레임워크
 
-## 1. Bootstrap
-
-![image](https://user-images.githubusercontent.com/94339489/196033235-239170a1-062c-491c-8384-763dc0737e42.png)
+## 1. Bootstrap  ![image](https://user-images.githubusercontent.com/94339489/196033235-239170a1-062c-491c-8384-763dc0737e42.png)
 
 Bootstrap은 더 빠르고 쉬운 웹 개발을 위한 무료 프론트엔드 프레임워크입니다.
 Bootstrap에는 타이포그래피, 양식, 버튼, 테이블, 탐색, 모달, 이미지 캐러셀 및 기타 여러 가지를 위한 HTML 및 CSS 기반 디자인 템플릿과 선택적 JavaScript 플러그인이 포함되어 있습니다.
